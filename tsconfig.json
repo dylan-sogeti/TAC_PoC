@@ -1,0 +1,14 @@
+{
+    "compilerOptions": {
+        "allowImportingTsExtensions": true,
+        "noEmit": true,
+    },
+    "include" : [
+        "pages/**/*.ts",
+        "tests/**/*.ts",
+        "poc/**/*.ts"
+, "poc/poc-test.spec.ts"    ],
+    "exclude": [
+
+    ]
+}
